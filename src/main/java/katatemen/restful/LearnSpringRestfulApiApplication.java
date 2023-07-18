@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LearnSpringResTfulApiApplication {
+public class LearnSpringRestfulApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LearnSpringResTfulApiApplication.class, args);
+		SpringApplication.run(LearnSpringRestfulApiApplication.class, args);
 	}
 
 }
