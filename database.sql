@@ -1,0 +1,3 @@
+CREATE DATABASE learn_spring_restful_api;
+
+USE learn_spring_restful_api;
